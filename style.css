@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    background-color: #ebb46f;
+}
+
+body {
+    background-image: url("pozadina.jpg");
+    background-size: cover;
+    background-position: center;
+}

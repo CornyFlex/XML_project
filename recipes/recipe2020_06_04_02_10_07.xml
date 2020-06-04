@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recipe>
+<RecipeName>Best recipe ever to be created!</RecipeName>
+<RecipeComplexity>2</RecipeComplexity>
+<Ingredients>
+<Ingredient>eggs</Ingredient>
+<Ingredient>fish</Ingredient>
+<Ingredient>butter</Ingredient>
+<Ingredient>meat</Ingredient>
+</Ingredients>
+<Steps>
+<Step>1. Mix up all the ingredients!</Step>
+<Step>2. Try not to spill anything.</Step>
+<Step>3. Taste it all!</Step>
+</Steps>
+<Time>60</Time>
+<PeopleAmount>2</PeopleAmount>
+<Vegan>No</Vegan>
+<Glucose>Yes</Glucose>
+</Recipe>

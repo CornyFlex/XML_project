@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recipe>
+    <RecipeName>Recept numero Zwei</RecipeName>
+    <RecipeComplexity>4</RecipeComplexity>
+    <Ingredients>
+        <Ingredient>pie</Ingredient>
+        <Ingredient>potatoes</Ingredient>
+        <Ingredient>milk</Ingredient>
+        <Ingredient>yogurt</Ingredient>
+    </Ingredients>
+    <Steps>
+        <Step>1. Split the potatoes in half</Step>
+        <Step>2. Take out the middle part of the potato</Step>
+        <Step>3. Pour in some yogurt</Step>
+        <Step>4. Bake for 10 minutes</Step>
+        <Step>5. Server with cold milk</Step>
+        <Step>6. EAT!</Step>
+    </Steps>
+    <Time>40</Time>
+    <PeopleAmount>5</PeopleAmount>
+    <Vegan>No</Vegan>
+    <Glucose>Yes</Glucose>
+</Recipe>
